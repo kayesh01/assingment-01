@@ -9,7 +9,8 @@ h1 {
 
 .h2-center {
     text-align: center;
-    padding-top: 10px;
+    padding-top: 2px;
+    margin-top: 50px;
 }
 
 
@@ -30,7 +31,9 @@ h1 {
 .top-banner {
     background-image: url(images/donation13.jpg);
     background-repeat: no-repeat;
+    height: 500px;
     background-size: cover;
+    padding-top: 150px;
 }
 
 .link-button {
@@ -46,7 +49,8 @@ h1 {
 
 .flexible-container {
     display: flex;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 
 .cart1 {
@@ -89,10 +93,11 @@ h1 {
 }
 
 .amount {
-    width: 10%;
+    width: 130px;
+    height: 40px;
     text-align: center;
     margin: auto;
-    padding: auto;
+    padding: 50px 10px;
     border-radius: 5px;
     background-color: white;
     box-shadow: 10px 10px 40px grey;
